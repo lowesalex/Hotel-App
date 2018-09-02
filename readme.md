@@ -1,4 +1,4 @@
-# Project Title
+#Laravel Hotel Reservation Template
 
 This is a laravel based project for hotel reservations.
 
